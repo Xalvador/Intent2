@@ -14,12 +14,11 @@
         android:id="@+id/textViewBiodata"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Biodata belum ada , isi terlebih dahulu" />
+        android:text="Biodata belum ada, isi terlebih dahulu" />
 
     <Button
         android:id="@+id/buttonInput"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
         android:text="Isi Biodata" />
 </LinearLayout>
